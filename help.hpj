@@ -1,0 +1,15 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+LCID=0x419 0x0 0x0 ; Русский
+REPORT=Yes
+HLP=help.hlp
+
+[FILES]
+Help.rtf
+
+[MAP]
+IDH_1=1               ; Справка
+
+[WINDOWS]
+main="Справка по программе",(330,177,419,698),27904,(r13298687),(r8569087),f3
